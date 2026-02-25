@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Uploaded PDFs (temporary files)
+uploads/
+
+# Merged PDFs (optional, if you don't want them in git)
+public/*.pdf
+
+# VSCode settings
+.vscode/
+
+# Mac system files
+*.swp
